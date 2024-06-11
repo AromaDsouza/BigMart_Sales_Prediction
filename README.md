@@ -15,6 +15,7 @@ The dataset used for this project is taken from Kaggle and is provided in CSV fo
 Link to the dataset: https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data/data
 
 The following are the key features:
+
 •	Item_Identifier: Distinct identifier for each product.
 
 •	Item_Weight: Weight of each product.
