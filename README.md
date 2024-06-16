@@ -12,7 +12,7 @@ BigMart, a large retail chain, operates multiple stores across various cities. T
 
 # Dataset: 
 The dataset used for this project is taken from Kaggle and is provided in CSV format. The training dataset contains 8,523 records and the test dataset contains 5,681 records
-Link to the dataset: https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data/data
+Link to the dataset: https://www.kaggle.com/datasets/uniabhi/bigmart-sales-data
 
 The following are the key features:
 
