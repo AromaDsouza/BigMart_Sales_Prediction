@@ -51,3 +51,8 @@ The following are the key features:
 
 •	Item_Outlet_Sales: Sales of each product in the particular store (target variable).
 
+To run this analysis, you'll need Python and several libraries installed on your system.
+
+Clone the repository: git clone (https://github.com/AromaDsouza/BigMart_Sales_Prediction.git)
+
+Install required libraries: pip install pandas, seaborn, matplotlib
